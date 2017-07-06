@@ -7,5 +7,4 @@ Git is free distributed software
 still prefers SVN
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
-checkout dev
-
+checkout dev-12323423
